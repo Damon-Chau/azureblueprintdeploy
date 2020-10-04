@@ -112,6 +112,7 @@
           "displayName": "Allowed locations (Policy: Allowed locations)",
           "strongType": "location"
         },
+        "defaultValue": ["East US"],
         "allowedValues": []
       },
       "deployAuditingonSQLservers_retentionDays": {
@@ -136,6 +137,7 @@
           "displayName": "Allowed locations (Policy: Allowed locations for resource groups)",
           "strongType": "location"
         },
+        "defaultValue": ["East US"],
         "allowedValues": []
       }
     },
